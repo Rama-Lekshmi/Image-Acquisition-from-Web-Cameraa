@@ -23,7 +23,7 @@ Rotate the image using cv2.rotate(smaller_frame,cv2.cv2.ROTATE_180).
 
 ### Program:
 ```
-Developed By: RAMA E K LAKSHMI LEKSHMI
+Developed By: RAMA E K LEKSHMI
 Register No: 212222240082
 ```
 ```py
